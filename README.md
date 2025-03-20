@@ -3,7 +3,7 @@ Home Assistant addons from DanQ8
 
 This repository provides the following addons for Home-Assistant:
 
-- neo_watcher
+- XXXXXX
 
 ## Installation
 
