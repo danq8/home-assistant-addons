@@ -1,8 +1,8 @@
 version: "1.0.0"
 image: ghcr.io/danq8/neo_watcher
-slug: hamh
+slug: neo_watcher
 name: Neo Watcher
-description: Publish your entities from Home Assistant to any Matter-compatible controller like Alexa, Apple Home or Google Home.
+description: A simple sensor
 url: https://github.com/danq8/neo_watcher
 panel_icon: mdi:hub
 panel_title: Neo Watcher
